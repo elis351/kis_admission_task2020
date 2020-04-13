@@ -1,4 +1,4 @@
-# kis_admission_task2020
+# kis_admission_task2020 Puzyna Lizaveta
 ## Задание для поступления на кафедру 1С
 
 Предскажите число заражений COVID-19 в США к 16.04.
